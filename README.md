@@ -1,8 +1,8 @@
 🔐 JWT Authentication Backend
 ======= 🔐 JWT Authentication Backend
 
-**Name:** Your Name  
-**UID:** Your UID  
+**Name:** Man Mohan Jeengar  
+**UID:** 24BCY70067  
 
 🎯 Aim
 To develop a RESTful API for JWT-based authentication using Express.js, following MVC architecture with full CRUD operations, role-based access control, request validation using Zod, and comprehensive error handling.
