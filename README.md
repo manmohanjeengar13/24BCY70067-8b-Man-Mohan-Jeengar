@@ -34,7 +34,7 @@ This project builds a JWT authentication backend with secure token generation, p
 ## 📁 Folder Structure
 
 ```
-jwt-auth-backend/
+24BCY70067-8b-Man-Mohan-Jeengar/
 │
 ├── src/
 │   ├── index.ts                      # Express app entry point
@@ -68,7 +68,7 @@ jwt-auth-backend/
 ### 1. Navigate to the project directory
 
 ```bash
-cd jwt-auth-backend
+cd 24BCY70067-8b-Man-Mohan-Jeengar
 ```
 
 ### 2. Install dependencies
@@ -106,7 +106,7 @@ Server will start at: `http://localhost:3001`
 
 ```json
 {
-  "name": "jwt-auth-backend",
+  "name": "24BCY70067-8b-Man-Mohan-Jeengar",
   "version": "1.0.0",
   "description": "JWT Authentication Backend with Express, Zod validation",
   "main": "dist/index.js",
